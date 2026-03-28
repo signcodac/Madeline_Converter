@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36631.11
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MadelineConverter", "MadelineConverter\MadelineConverter.vbproj", "{C397B1FE-55AF-49CD-9D09-768AD754AC57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C397B1FE-55AF-49CD-9D09-768AD754AC57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C397B1FE-55AF-49CD-9D09-768AD754AC57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C397B1FE-55AF-49CD-9D09-768AD754AC57}.Debug|x86.ActiveCfg = Debug|x86
+		{C397B1FE-55AF-49CD-9D09-768AD754AC57}.Debug|x86.Build.0 = Debug|x86
+		{C397B1FE-55AF-49CD-9D09-768AD754AC57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C397B1FE-55AF-49CD-9D09-768AD754AC57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C397B1FE-55AF-49CD-9D09-768AD754AC57}.Release|x86.ActiveCfg = Release|x86
+		{C397B1FE-55AF-49CD-9D09-768AD754AC57}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B589DA58-AD49-46CC-8915-5614DC9664D4}
+	EndGlobalSection
+EndGlobal
