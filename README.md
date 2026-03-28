@@ -1,6 +1,6 @@
 # Madeline Converter
 
-[![Screenshot](screenshot.png)](screenshot.png)
+[![Screenshot](https://github.com/signcodac/Madeline_Converter/blob/main/Screenshot.png?raw=true)](https://github.com/signcodac/Madeline_Converter/blob/main/Screenshot.png?raw=true)
 
 > Click the image to open `screenshot.png` at full size. Add the image to the repository root as `screenshot.png`.
 
@@ -33,9 +33,8 @@ Grab a pre-built build from the GitHub **Releases** page. The URLs below are **e
 
 | Description | Example link |
 |-------------|--------------|
-| Latest release page | `https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest` |
-| Direct download (ZIP example) | `https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v1.0.0/MadelineConverter.zip` |
-| Direct download (EXE example) | `https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v1.0.0/MadelineConverter.exe` |
+| Latest release page | `https://github.com/signcodac/Madeline_Converter/releases` |
+| Direct download (ZIP example) | `https://raw.githubusercontent.com/signcodac/Madeline_Converter/refs/heads/main/MadelineConverter_Release.zip` |
 
 **Note:** The uploaded asset name in a release must match the filename in `releases/download/TAG/ASSET_NAME` exactly.
 
