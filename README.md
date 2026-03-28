@@ -17,7 +17,7 @@ Pick the session file and an output folder in the UI—that’s all you need.
 
 ## Requirements
 
-- Windows  
+- Windows Operating System
 - [.NET Framework 4.7.2](https://dotnet.microsoft.com/download/dotnet-framework/net472) or newer (matching SDK/workload if you build from source in Visual Studio)
 
 ## Build from source
